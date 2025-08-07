@@ -10,7 +10,7 @@
 
 ## 📋 Descripción del Sistema
 
-**Bursalyzer** es una solución tecnológica desarrollada por **WoMo Soluciónˢ** orientada al seguimiento, análisis y gestión personal de inversiones. Esta plataforma permite a los usuarios finales registrar y visualizar de forma gráfica y dinámica el comportamiento de sus activos financieros.
+Es una solución tecnológica orientada al seguimiento, análisis y gestión personal de inversiones. Esta plataforma permite a los usuarios finales registrar y visualizar de forma gráfica y dinámica el comportamiento de sus activos financieros.
 
 Entre sus funcionalidades clave se incluyen:
 
@@ -39,7 +39,7 @@ Entre sus funcionalidades clave se incluyen:
 
 ## 🖥️ Estructura del Proyecto
 
-📁 bursalyzer/  
+📁 Bursalyzer/  
 ├── 📂 controllers/  
 │ ├── auth.py # Control de acceso y recuperación de contraseñas  
 │ ├── dashboard.py # Visualización del portafolio  
@@ -104,5 +104,4 @@ Este sistema destaca por:
 
 ## 📅 Control de Versiones
 
-📅 ![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)  
-🔄 ![Última Actualización](https://img.shields.io/badge/Actualizado-Jul_2025-green)
+![Versión](https://img.shields.io/badge/Versión-1.0.0-blue) ![Última Actualización](https://img.shields.io/badge/Actualizado-Jul_2025-green)
